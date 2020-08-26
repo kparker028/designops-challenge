@@ -1,0 +1,32 @@
+
+
+.innerContent {
+    display: grid;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    
+    
+    
+    
+}
+
+.profileImage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 32px;
+   
+    
+}
+
+.userName {
+    margin: auto;
+}
+
+
+
+.button {
+    margin-bottom: 32px;
+    
+}

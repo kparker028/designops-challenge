@@ -9,6 +9,7 @@ export const Card = ({ width, height, children }) => {
     borderRadius: "20px",
     position: "relative",
     backgroundColor: "white",
+    
   };
   return (
     <div style={cardStyles} className="cardContainer">
